@@ -1,0 +1,97 @@
+{
+  "todos": [
+    {
+      "id": "6757",
+      "userName": "sara",
+      "userNum": "0123456789",
+      "departmentId": "3",
+      "department": "3"
+    },
+    {
+      "id": "be35",
+      "userName": "taemin",
+      "userNum": "0132456789",
+      "departmentId": "5",
+      "department": "3"
+    },
+    {
+      "id": "6fb6",
+      "userName": "krystal",
+      "userNum": "0142356789",
+      "departmentId": "6",
+      "department": "2"
+    },
+    {
+      "id": "23a4",
+      "userName": "mingyu",
+      "userNum": "2432748",
+      "department": "1"
+    },
+    {
+      "id": "0495",
+      "userName": "jeonghan ",
+      "userNum": "432423432",
+      "department": "9"
+    },
+    {
+      "id": "7a63",
+      "userName": "wonwoo",
+      "userNum": "75427572",
+      "department": "5"
+    },
+    {
+      "id": "fb38",
+      "userName": "jun",
+      "userNum": "07809756",
+      "department": "2"
+    },
+    {
+      "id": "22d8",
+      "userName": "minghao",
+      "userNum": "01299327398",
+      "department": "4"
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "name": "People & Culture"
+    },
+    {
+      "id": "2",
+      "name": "Marketing"
+    },
+    {
+      "id": "3",
+      "name": "Technical"
+    },
+    {
+      "id": "4",
+      "name": "Admin"
+    },
+    {
+      "id": "5",
+      "name": "HR"
+    },
+    {
+      "id": "6",
+      "name": "Finance"
+    },
+    {
+      "id": "7",
+      "name": "Accounting"
+    },
+    {
+      "id": "8",
+      "name": "Sales"
+    },
+    {
+      "id": "9",
+      "name": "Operations"
+    },
+    {
+      "id": "10",
+      "name": "IT"
+    }
+  ]
+}
